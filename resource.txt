@@ -1,0 +1,13 @@
+{
+	"bg_day":"bg_day.png",
+	"bg_night":"bg_night.png",
+	"land":"land.png",
+	"pipe1_down":"pipe1_down.png",
+	"pipe1_up":"pipe1_up.png",
+	"bird0":"bird0_0.png",
+	"bird1":"bird0_1.png",
+	"bird2":"bird0_2.png",
+	"title":"title.png",
+	"button_play":"button_play.png",
+	"score_panel":"score_panel.png"
+}
